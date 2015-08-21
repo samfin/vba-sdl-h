@@ -1,5 +1,10 @@
-VBA-SDL-H (forked from https://github.com/cosarara97/vba-sdl-h)
+VBA-SDL-H
 =========
+
+This is a fork of https://github.com/cosarara97/vba-sdl-h original readme is below.
+
+Readme
+------
 
 This is a fork of VBA-SDL-H, as a result of the author's repository having
 been down for some time.
